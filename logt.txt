@@ -1,0 +1,70 @@
+2021-02-12 17:05:24,343:INFO:There was some error
+2021-02-12 17:05:24,343:INFO:please check the folders for  more details
+2021-02-12 17:08:42,048:INFO:There was some error
+2021-02-12 17:08:42,048:INFO:please check the folders for  more details
+2021-02-12 17:09:35,464:INFO:There was some error
+2021-02-12 17:09:35,464:INFO:please check the folders for  more details
+2021-02-12 17:10:22,835:INFO:There was some error
+2021-02-12 17:10:22,835:INFO:please check the folders for  more details
+2021-02-12 17:13:09,833:INFO:There was some error
+2021-02-12 17:13:09,833:INFO:please check the folders for  more details
+2021-02-12 17:23:51,584:INFO:There was some error
+2021-02-12 17:23:51,584:INFO:please check the folders for  more details
+2021-02-12 17:24:21,957:INFO:There was some error
+2021-02-12 17:24:21,957:INFO:please check the folders for  more details
+2021-02-12 17:24:38,300:INFO:There was some error
+2021-02-12 17:24:38,300:INFO:please check the folders for  more details
+2021-02-12 17:25:36,243:INFO:There was some error
+2021-02-12 17:25:36,243:INFO:please check the folders for  more details
+2021-02-12 17:26:30,180:INFO:There was some error
+2021-02-12 17:26:30,180:INFO:please check the folders for  more details
+2021-02-12 17:28:34,595:INFO:There was some error
+2021-02-12 17:28:34,596:INFO:please check the folders for  more details
+2021-02-12 17:29:05,622:INFO:There was some error
+2021-02-12 17:29:05,622:INFO:please check the folders for  more details
+2021-02-12 17:31:09,684:INFO:There was some error
+2021-02-12 17:31:09,684:INFO:please check the folders for  more details
+2021-02-12 17:32:55,928:INFO:There was some error
+2021-02-12 17:32:55,929:INFO:please check the folders for  more details
+2021-02-12 17:33:17,430:INFO:There was some error
+2021-02-12 17:33:17,430:INFO:please check the folders for  more details
+2021-02-12 17:33:28,587:INFO:There was some error
+2021-02-12 17:33:28,588:INFO:please check the folders for  more details
+2021-02-12 17:33:55,155:INFO:There was some error
+2021-02-12 17:33:55,155:INFO:please check the folders for  more details
+2021-02-12 17:34:20,329:INFO:There was some error
+2021-02-12 17:34:20,329:INFO:please check the folders for  more details
+2021-02-12 17:34:57,969:INFO:There was some error
+2021-02-12 17:34:57,969:INFO:please check the folders for  more details
+2021-02-12 17:36:01,530:INFO:There was some error
+2021-02-12 17:36:01,531:INFO:please check the folders for  more details
+2021-02-12 17:36:40,350:INFO:There was some error
+2021-02-12 17:36:40,350:INFO:please check the folders for  more details
+2021-02-12 17:49:39,530:INFO:There was some error
+2021-02-12 17:49:39,530:INFO:please check the folders for  more details
+2021-02-12 18:06:42,588:INFO:There was some error
+2021-02-12 18:06:42,588:INFO:please check the folders for  more details
+2021-02-12 18:07:24,808:INFO:There was some error
+2021-02-12 18:07:24,808:INFO:please check the folders for  more details
+2021-02-12 18:08:21,374:INFO:There was some error
+2021-02-12 18:08:21,374:INFO:please check the folders for  more details
+2021-02-12 18:08:52,416:INFO:There was some error
+2021-02-12 18:08:52,416:INFO:please check the folders for  more details
+2021-02-12 18:09:30,112:INFO:There was some error
+2021-02-12 18:09:30,112:INFO:please check the folders for  more details
+2021-02-12 18:09:51,183:INFO:There was some error
+2021-02-12 18:09:51,183:INFO:please check the folders for  more details
+2021-02-12 18:12:45,472:INFO:There was some error
+2021-02-12 18:12:45,472:INFO:please check the folders for  more details
+2021-02-12 18:13:03,224:INFO:There was some error
+2021-02-12 18:13:03,224:INFO:please check the folders for  more details
+2021-02-12 18:14:33,586:INFO:There was some error
+2021-02-12 18:14:33,586:INFO:please check the folders for  more details
+2021-02-12 18:15:21,609:INFO:There was some error
+2021-02-12 18:15:21,609:INFO:please check the folders for  more details
+2021-02-12 18:15:28,462:INFO:There was some error
+2021-02-12 18:15:28,462:INFO:please check the folders for  more details
+2021-02-12 18:16:27,735:INFO:Files are greater than 1
+2021-02-12 18:16:27,842:INFO:please check the folders for  more details
+2021-02-12 18:16:52,735:INFO:Files are greater than 1
+2021-02-12 18:16:52,805:INFO:please check the folders for  more details

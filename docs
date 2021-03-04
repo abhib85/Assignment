@@ -1,0 +1,45 @@
+Folders:
+
+client folder : incoming excel sheets
+network location : merged excel files updated from the client folder
+config file : storing all paths
+log : logging
+scripts : main  script
+
+
+
+Things to include in code :
+
+use function
+use class
+import module-pandas, logging,configparser,
+call config elements
+use function
+use class
+loop
+exception handling
+__name__==""main
+file handling
+documentation string
+comments
+log file at every execution
+
+
+Logic :
+
+check file/files in client folder
+merge all the files
+then put  merge file to one location...network location
+if file are not available in client location ..handle exception
+
+
+
+Print messages :
+program start
+file  check ---print yes /no according;
+after merge  print merge successful
+end .. process completed
+
+
+
+
